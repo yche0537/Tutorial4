@@ -15,3 +15,4 @@ ggplot(dat, aes(x = x, y = y)) +
 geom_line()
 ```
 
+This is a test for merging.
