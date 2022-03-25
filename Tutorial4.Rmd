@@ -6,7 +6,7 @@ output: bookdown::html_document2
 keep_md: true
 ---
 
-```{r, lineplot, fig.align='center', fig.width=10, fig.height=8}
+```{r, lineplot, fig.align='center', fig.height= 5, fig.width=10}
 library(ggplot2)
 x = seq(1:100)
 y = rnorm(100)
